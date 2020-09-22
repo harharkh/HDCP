@@ -35,8 +35,7 @@ The contributors to this project are (by alphabetical order of last name):
 Please contact Matthew Kahle (kahle.70@osu.edu) or Jeremy Mason (jkmason@ucdavis.edu) for more information.
 
 ## **License**
-The functions included in this archive are licenced under the [GNU General
-Public License, Version 3](https://www.gnu.org/licenses/gpl-3.0.en.html).
+The contents of this repository are licenced under the [GNU General Public License, Version 3](https://www.gnu.org/licenses/gpl-3.0.en.html).
 
 ## **Acknowledgements**
 This material is based upon work supported by the National Science Foundation under Grant No. 1839370. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.
