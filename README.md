@@ -11,11 +11,11 @@ Connecting to a Jupyter notebook server running on your local machine can provid
 Before attempting to connect to a local runtime, make sure you trust the authors of the notebook and ensure you understand what code is being executed. For more information on the Jupyter notebook server's security model, consult [Jupyter's documentation](https://jupyter-notebook.readthedocs.io/en/stable/security.html).
 
 ## **Usage**
-*The usage of this notebook is straightforward. The first cell after this section imports the necessary datafiles and libraries. The second cell calls the desired datafile. The critical points database is available for $n=2 \ldots 12$. You can choose which database you want to load. You can also use the filter option to analyze the critical points. After you load the first two cells, the plotting is done in the third cell. All you have to do is to select the critical point you want to plot from the table from the previous cell. The last cell also prints the adjacency matrix of the critical points.
+**FIX ME** The usage of this notebook is straightforward. The first cell after this section imports the necessary datafiles and libraries. The second cell calls the desired datafile. The critical points database is available for $n=2 \ldots 12$. You can choose which database you want to load. You can also use the filter option to analyze the critical points. After you load the first two cells, the plotting is done in the third cell. All you have to do is to select the critical point you want to plot from the table from the previous cell. The last cell also prints the adjacency matrix of the critical points.
 
 Suppose we want to plot the 4th critical point of $n=7$ case.
 - Change the value of _filename_ as _filename = 'hard_disks/7disk.csv'_; 
-- Change the value of _which_crit_ as _which_crit = 4;_*
+- Change the value of _which_crit_ as _which_crit = 4;_
 
 ## **References**
 Research into the topology of the configuration space of hard disks is ongoing, but the references below provide some context for this project.
